@@ -1,0 +1,12 @@
+The assignment is:
+ 
+Create a simple twitter style activity stream with the following requirements:
+ 
+1) Create a form to post a text box to the server 
+2) Persist to mysql
+3) Create a web view of all previous activities
+4) Code should be unit tested
+ 
+ 
+ 
+When you are done, send the materials to me, and Rodney and I will go over them.
